@@ -1,0 +1,4 @@
+172.22.0.1 - - [26/Mar/2020:04:43:19 +0000] "GET /hello HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36"
+172.22.0.1 - - [26/Mar/2020:04:43:23 +0000] "GET / HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36"
+172.22.0.1 - - [26/Mar/2020:04:46:38 +0000] "GET / HTTP/1.1" 404 21440 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36"
+172.22.0.1 - - [26/Mar/2020:04:46:40 +0000] "GET /_wdt/66906a HTTP/1.1" 200 3857 "http://symfony.localhost/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36"

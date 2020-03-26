@@ -1,0 +1,2 @@
+2020/03/26 04:43:19 [error] 7#7: *2 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.22.0.1, server: symfony.localhost, request: "GET /hello HTTP/1.1", upstream: "fastcgi://172.22.0.2:9001", host: "symfony.localhost"
+2020/03/26 04:43:23 [error] 7#7: *2 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.22.0.1, server: symfony.localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.22.0.2:9001", host: "symfony.localhost"
